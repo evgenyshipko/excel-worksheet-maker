@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8054b970-d60b-4b59-a329-291486cf6d3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/excel-worksheet-maker/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel-worksheet-maker/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="8054b970-d60b-4b59-a329-291486cf6d3d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/excel-worksheet-maker/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="51">
+              <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -129,16 +127,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590557237881</updated>
-      <workItem from="1590557239476" duration="1412000" />
+      <workItem from="1590557239476" duration="1992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1412000" />
+    <option name="totallyTimeSpent" value="1992000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1368" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="1368" y="27" width="1920" height="1053" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -186,8 +183,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/excel-worksheet-maker/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="51">
+          <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
         </state>
       </provider>
     </entry>
