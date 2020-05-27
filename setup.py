@@ -8,6 +8,6 @@ setup(
     author='Shipko Evgeny',
     author_email='evgeny-shipko@ya.ru',
     license='unlicense',
-    packages=['excel-worksheet-maker'],
+    packages=['excel_worksheet_maker'],
     zip_safe=False, install_requires=['xlsxwriter']
 )
