@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/excel-worksheet-maker.iml" filepath="$PROJECT_DIR$/.idea/excel-worksheet-maker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/excel_worksheet_maker.iml" filepath="$PROJECT_DIR$/.idea/excel_worksheet_maker.iml" />
     </modules>
   </component>
 </project>
