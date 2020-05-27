@@ -18,7 +18,7 @@ def write_workbook(column_data_list, row_data_list, file_path):
             for column_id in column_id_list:
                 key_value = row_data.get(column_id)
                 if key_value is not None and key_value != []:
-                    value += str(key_value)
+                    value += str(key_value) + ' '
 
             worksheet.write(row_index, i, value)
 
