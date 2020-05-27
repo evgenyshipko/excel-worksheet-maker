@@ -1,7 +1,7 @@
 from xlsxwriter import Workbook
 
 
-def write_workbook_into_excel_file(column_data_list, row_data_list, file_path):
+def write_workbook(column_data_list, row_data_list, file_path):
 
     workbook = Workbook(file_path)
     worksheet = workbook.add_worksheet()
