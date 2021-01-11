@@ -2,7 +2,6 @@ from xlsxwriter import Workbook
 
 
 def write_workbook(column_data_list, row_data_list, file_path):
-
     workbook = Workbook(file_path)
     worksheet = workbook.add_worksheet()
 
@@ -15,10 +14,14 @@ def write_workbook(column_data_list, row_data_list, file_path):
         for i in range(len(column_data_list)):
             column_id_list = column_data_list[i]['id']
             value = ""
+            column_id_index = 0
             for column_id in column_id_list:
                 key_value = row_data.get(column_id)
                 if key_value is not None and key_value != []:
-                    value += str(key_value) + ' '
+                    value += str(key_value)
+                    if column_id_index < len(column_id_list) - 1:
+                        value += ' '
+                column_id_index += 1
 
             worksheet.write(row_index, i, value)
 
