@@ -6,7 +6,7 @@ import excel_worksheet_maker
 
 print('test script: start')
 
-file_name = 'test.xlsx'
+file_name = 'example/test.xlsx'
 file_path = os.path.abspath(file_name)
 print('file_path',file_path)
 

@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='excel-worksheet-maker',
-    version='0.0.1',
+    version='0.0.2',
     description='Utils for fast forming xlswriter Workbook file using strict format column list and data list',
     url='git@github.com:evgenyshipko/excel-worksheet-maker.git',
     author='Shipko Evgeny',
