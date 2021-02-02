@@ -9,3 +9,5 @@
 3. pip3 install xlsxwriter
 4. python3 example/example_script.py
 5. see result in example/test.xlsx
+
+*TO DO*: write tests using py.test
